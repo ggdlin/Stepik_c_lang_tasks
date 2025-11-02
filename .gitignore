@@ -1,0 +1,17 @@
+# executable files
+myprogram
+
+# objects files
+*.o
+
+# backup files
+*~
+*.bak
+
+# editors files
+.vscode/
+.idea/
+
+system files
+.DS_Store
+Thumbs.db
